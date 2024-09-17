@@ -31,3 +31,5 @@ Here are some key insights from your portfolio website project:
 4. **Feedback Integration**: Actively seeking and incorporating feedback helps identify areas for improvement and ensures the design meets user needs.
 5. **Testing and Optimization**: Conducting thorough usability tests and optimizing performance can significantly enhance the website’s functionality and user experience.
 6. **Documentation for Development**: Providing clear documentation and design assets facilitates smoother development and accurate implementation of your vision.
+<h3>How to Run the Project</h3>
+ To view and interact with the portfolio design, open the Figma file (vigneshwaran portfolio.fig) and navigate through the pages to explore the various sections of the portfolio. Use the prototype mode ("MacBook Pro 14") to simulate user interactions and transitions. Ensure you have access to the necessary Figma permissions to view or edit the project as needed.
