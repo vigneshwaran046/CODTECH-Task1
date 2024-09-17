@@ -24,7 +24,6 @@ Design and Layout: Created my portfolio website project, I began by conducting r
 Figma – For designing the UI and UX, creating wireframes, and prototyping the website.
 
 <h3>Key Insights</h3>
-Here are some key insights from your portfolio website project:
 
 1. **User-Centric Design**: Prioritizing user experience through intuitive navigation and clear layout significantly enhances the effectiveness of the portfolio.
 2. **Consistency in Branding**: A cohesive design with consistent color schemes and typography reinforces your personal brand and professional image.
