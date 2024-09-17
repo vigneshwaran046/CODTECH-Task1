@@ -8,6 +8,7 @@
 **Mentor:** Muzammil ahmed<br>
 
 ## OVERVIEW OF THE PROJECT
+**Project:** PORTFOLIO WEBSITE REDESIGN
 
 ![Screenshot](https://github.com/vigneshwaran046/CODTECH-Task1/blob/0fb2b12e377f982ac9ab9a54401163a0dd4f29cf/Screenshot%202024-09-17%20073327.png)
 
