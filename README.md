@@ -9,7 +9,7 @@
 
 ## OVERVIEW OF THE PROJECT
 
-![Screenshot](https://github.com/vigneshwaran046/CODTECH-Task1/blob/9bbb4368c514df8c8871738b3282cf10313aaa8f/Screenshot%202024-09-17%20072311.png)
+![Screenshot](https://github.com/vigneshwaran046/CODTECH-Task1/blob/0fb2b12e377f982ac9ab9a54401163a0dd4f29cf/Screenshot%202024-09-17%20073327.png)
 
 
 <h1> Portfolio Website</h1>
